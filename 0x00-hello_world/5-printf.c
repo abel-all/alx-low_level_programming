@@ -3,7 +3,7 @@
 /**
  * main - print something using printf
  *
- * return - 0 (sucsses)
+ * Return: - 0 (sucsses)
  */
 int main(void)
 {
