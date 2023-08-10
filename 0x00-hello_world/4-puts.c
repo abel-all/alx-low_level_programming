@@ -1,8 +1,9 @@
 #include <stdio.h>
-/*
- * main - function that put something
+
+/**
+ * main - A program that prints a string using puts.
  *
- * return - return_o
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
