@@ -3,8 +3,9 @@
 #include <stdio.h>
 
 /**
- * main - function assign random value to n and display what is sign of this number
- * 
+ * main - function assign random value to n and
+ * display what is sign of this number
+ *
  * Return: is always 0 (sucsess)
  */
 int main(void)
