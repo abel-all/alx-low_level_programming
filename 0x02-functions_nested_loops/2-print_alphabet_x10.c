@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * print_alphabet - program that display _putchar
- *
  * print_alphabet_x10 - program that display _putchar
+ *
+ * print_alphabet - program that display _putchar
  *
  * Return: no return value void
  */
