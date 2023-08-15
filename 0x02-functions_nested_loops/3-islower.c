@@ -1,7 +1,9 @@
 #include "main.h"
 
 /**
- * main - check the code.
+ * _islower - check the code.
+ *
+ * c: the char you want to check them
  *
  * Return: 1 if c lowecase, otherwise 0.
  */
