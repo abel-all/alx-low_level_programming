@@ -2,8 +2,7 @@
 
 /**
  * _islower - check the code.
- *
- * c: the char you want to check them
+ * @c: The number to be checked
  *
  * Return: 1 if c lowecase, otherwise 0.
  */
