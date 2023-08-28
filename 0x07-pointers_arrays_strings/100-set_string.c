@@ -1,10 +1,8 @@
-
+#include "main.h"
 /**
  * set_string - gets the length of a prefix substring
- * @to: string containing the characters to match
- * @s: string containing the characters to match
- *
- * Return: nothing
+ * @to: pointer containing the characters to match
+ * @s: pointer containing the characters to match
  */
 
 void set_string(char **s, char *to)
