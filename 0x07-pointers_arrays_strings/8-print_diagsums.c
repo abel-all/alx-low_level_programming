@@ -1,3 +1,5 @@
+#include "main.h"
+
 /**
  * print_diagsums - gets the length of a prefix substring
  * @a: string containing the characters to match
