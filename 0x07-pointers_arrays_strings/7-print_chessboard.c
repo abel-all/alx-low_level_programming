@@ -1,18 +1,4 @@
-#include <unistd.h>
-
-/**
- * _putchar - gets the length of a prefix substring
- * @c: string containing the characters to match
- *
- * Return: nothing
- */
-
-
-void _putchar(char c)
-{
-	write(1, &c, 1);
-}
-
+#include "main.h"
 /**
  * print_chessboard - gets the length of a prefix substring
  * @a: string containing the characters to match
