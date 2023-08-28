@@ -1,5 +1,5 @@
 /**
- * inCharSet - checks if a character is in a set of characters
+ * _inCharSet - checks if a character is in a set of characters
  * @c: character to be checked
  * @accept: string containing the characters to match
  * Return: 1 if c is in accept, 0 otherwise
