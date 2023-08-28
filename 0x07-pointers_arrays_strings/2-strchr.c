@@ -1,5 +1,5 @@
 /**
- * _memset - prints buffer in hexa
+ * _strchr - prints buffer in hexa
  * @s: the char pointer
  * @c: the char
  *
